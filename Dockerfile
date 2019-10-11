@@ -6,4 +6,4 @@ MAINTAINER bala@gmail.com
 
 EXPOSE 8088
 ENTRYPOINT ["./amplitude_bala"]
-CMD ["-stream-name=devops_amplitude"]
+CMD ["-stream-name=amplitude-stream"]
